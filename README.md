@@ -9,4 +9,4 @@
 
 ## 🛠 Skills and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,nextjs,mongodb,express,redux,materialui,emotion,docker,aws,gcp,git,figma,webpack&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,nextjs,mongodb,express,redux,materialui,emotion,docker,aws,gcp,figma&perline=8)](https://skillicons.dev)
